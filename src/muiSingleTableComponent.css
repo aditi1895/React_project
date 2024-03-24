@@ -1,0 +1,12 @@
+/* Define styles for greenCell */
+.greenCell {
+    background-color: green; /* Change the background color to green */
+    color: white; /* Change the text color to white */
+  }
+  
+  /* Define styles for redCell */
+  .redCell {
+    background-color: red; /* Change the background color to red */
+    color: white; /* Change the text color to white */
+  }
+  
